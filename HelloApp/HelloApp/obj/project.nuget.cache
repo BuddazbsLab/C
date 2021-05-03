@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hBF/sNegML3aFqipjw/Jiy/WypKYouEuV6Kgc8XSHcpjc0VXhQOM+4j0WFp4Jatct5Y5eWmMSU4RCUw+pge5jA==",
+  "dgSpecHash": "aj3kTPN15T8mDwkJ1FmlTcX68XxkjgDXsghfkWBvuGs9BEV/RZvT+51MK2PmgN2IADXZObNb66e0JXqaxXuPQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andreev_iv\\source\\repos\\HelloApp\\HelloApp\\HelloApp.csproj",
+  "projectFilePath": "D:\\C#\\C\\HelloApp\\HelloApp\\HelloApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

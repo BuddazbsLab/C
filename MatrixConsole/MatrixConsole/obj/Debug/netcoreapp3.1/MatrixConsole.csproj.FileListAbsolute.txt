@@ -1,0 +1,13 @@
+D:\C#\C\MatrixConsole\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.exe
+D:\C#\C\MatrixConsole\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.deps.json
+D:\C#\C\MatrixConsole\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.runtimeconfig.json
+D:\C#\C\MatrixConsole\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.runtimeconfig.dev.json
+D:\C#\C\MatrixConsole\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.dll
+D:\C#\C\MatrixConsole\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.pdb
+D:\C#\C\MatrixConsole\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.csprojAssemblyReference.cache
+D:\C#\C\MatrixConsole\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.AssemblyInfoInputs.cache
+D:\C#\C\MatrixConsole\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.AssemblyInfo.cs
+D:\C#\C\MatrixConsole\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.csproj.CoreCompileInputs.cache
+D:\C#\C\MatrixConsole\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.dll
+D:\C#\C\MatrixConsole\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.pdb
+D:\C#\C\MatrixConsole\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.genruntimeconfig.cache
