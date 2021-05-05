@@ -15,7 +15,7 @@
 <a href="https://github.com/nomadroom/JS/stargazers">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/nomadroom/С">
 </a>
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nomadroom/С">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/count/nomadroom/C">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nomadroom/С">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nomadroom/С">
 </p>
