@@ -9,15 +9,15 @@
 <a href="https://github.com/nomadroom/С/issues">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/nomadroom/С">
 </a>
-<a href="https://github.com/nomadroom/JS/network">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/nomadroom/С">
+<a href="https://github.com/nomadroom/C/network">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/nomadroom/C">
 </a>
 <a href="https://github.com/nomadroom/JS/stargazers">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/nomadroom/С">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/nomadroom/C">
 </a>
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/count/nomadroom/C">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nomadroom/С">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nomadroom/С">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nomadroom/C">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nomadroom/C">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nomadroom/C">
 </p>
 
 
