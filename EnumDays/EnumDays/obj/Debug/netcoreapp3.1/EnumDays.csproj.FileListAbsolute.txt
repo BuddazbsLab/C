@@ -1,0 +1,12 @@
+D:\C#\C\EnumDays\EnumDays\bin\Debug\netcoreapp3.1\EnumDays.exe
+D:\C#\C\EnumDays\EnumDays\bin\Debug\netcoreapp3.1\EnumDays.deps.json
+D:\C#\C\EnumDays\EnumDays\bin\Debug\netcoreapp3.1\EnumDays.runtimeconfig.json
+D:\C#\C\EnumDays\EnumDays\bin\Debug\netcoreapp3.1\EnumDays.runtimeconfig.dev.json
+D:\C#\C\EnumDays\EnumDays\bin\Debug\netcoreapp3.1\EnumDays.dll
+D:\C#\C\EnumDays\EnumDays\bin\Debug\netcoreapp3.1\EnumDays.pdb
+D:\C#\C\EnumDays\EnumDays\obj\Debug\netcoreapp3.1\EnumDays.AssemblyInfoInputs.cache
+D:\C#\C\EnumDays\EnumDays\obj\Debug\netcoreapp3.1\EnumDays.AssemblyInfo.cs
+D:\C#\C\EnumDays\EnumDays\obj\Debug\netcoreapp3.1\EnumDays.csproj.CoreCompileInputs.cache
+D:\C#\C\EnumDays\EnumDays\obj\Debug\netcoreapp3.1\EnumDays.dll
+D:\C#\C\EnumDays\EnumDays\obj\Debug\netcoreapp3.1\EnumDays.pdb
+D:\C#\C\EnumDays\EnumDays\obj\Debug\netcoreapp3.1\EnumDays.genruntimeconfig.cache
