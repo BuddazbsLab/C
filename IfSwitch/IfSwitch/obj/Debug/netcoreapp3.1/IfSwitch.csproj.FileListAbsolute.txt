@@ -1,0 +1,12 @@
+D:\C#\C\IfSwitch\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.exe
+D:\C#\C\IfSwitch\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.deps.json
+D:\C#\C\IfSwitch\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.runtimeconfig.json
+D:\C#\C\IfSwitch\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.runtimeconfig.dev.json
+D:\C#\C\IfSwitch\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.dll
+D:\C#\C\IfSwitch\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.pdb
+D:\C#\C\IfSwitch\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.AssemblyInfoInputs.cache
+D:\C#\C\IfSwitch\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.AssemblyInfo.cs
+D:\C#\C\IfSwitch\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.csproj.CoreCompileInputs.cache
+D:\C#\C\IfSwitch\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.dll
+D:\C#\C\IfSwitch\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.pdb
+D:\C#\C\IfSwitch\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.genruntimeconfig.cache
