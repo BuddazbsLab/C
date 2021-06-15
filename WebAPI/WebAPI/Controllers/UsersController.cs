@@ -17,8 +17,12 @@ namespace WebAPI.Controllers
             db = context;
             if (!db.Users.Any())
             {
-                db.Users.Add(new User { Name = "Tom", Age = 26 });
-                db.Users.Add(new User { Name = "Alice", Age = 31 });
+                db.Users.Add(new User { Name = "Выберите что нужно от меня"});
+                db.Users.Add(new User { Name = "Plus"});
+                db.Users.Add(new User { Name = "Division"});
+                db.Users.Add(new User { Name = "Multiplication"});
+                db.Users.Add(new User { Name = "Subtraction" });
+                db.Users.Add(new User { Name = "Remainder of the division" });
                 db.SaveChanges();
             }
         }

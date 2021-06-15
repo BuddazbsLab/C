@@ -1,0 +1,15 @@
+C:\C\Методы\Методы\bin\Debug\netcoreapp3.1\Методы.exe
+C:\C\Методы\Методы\bin\Debug\netcoreapp3.1\Методы.deps.json
+C:\C\Методы\Методы\bin\Debug\netcoreapp3.1\Методы.runtimeconfig.json
+C:\C\Методы\Методы\bin\Debug\netcoreapp3.1\Методы.runtimeconfig.dev.json
+C:\C\Методы\Методы\bin\Debug\netcoreapp3.1\Методы.dll
+C:\C\Методы\Методы\bin\Debug\netcoreapp3.1\Методы.pdb
+C:\C\Методы\Методы\obj\Debug\netcoreapp3.1\Методы.csproj.AssemblyReference.cache
+C:\C\Методы\Методы\obj\Debug\netcoreapp3.1\Методы.AssemblyInfoInputs.cache
+C:\C\Методы\Методы\obj\Debug\netcoreapp3.1\Методы.AssemblyInfo.cs
+C:\C\Методы\Методы\obj\Debug\netcoreapp3.1\Методы.csproj.CoreCompileInputs.cache
+C:\C\Методы\Методы\obj\Debug\netcoreapp3.1\Методы.dll
+C:\C\Методы\Методы\obj\Debug\netcoreapp3.1\Методы.pdb
+C:\C\Методы\Методы\obj\Debug\netcoreapp3.1\Методы.genruntimeconfig.cache
+C:\C\Методы\Методы\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\C\Методы\Методы\obj\Debug\netcoreapp3.1\Методы.csproj.CopyComplete

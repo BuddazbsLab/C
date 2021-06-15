@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Вывод чисел кратные трем и замена их на звезду/1.0.0": {
+        "runtime": {
+          "Вывод чисел кратные трем и замена их на звезду.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Вывод чисел кратные трем и замена их на звезду/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
