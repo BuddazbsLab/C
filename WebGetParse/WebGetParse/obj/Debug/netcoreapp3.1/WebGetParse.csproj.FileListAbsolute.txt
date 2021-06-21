@@ -1,0 +1,13 @@
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\WebGetParse.exe
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\WebGetParse.deps.json
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\WebGetParse.runtimeconfig.json
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\WebGetParse.runtimeconfig.dev.json
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\WebGetParse.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\WebGetParse.pdb
+C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.csproj.AssemblyReference.cache
+C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.AssemblyInfoInputs.cache
+C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.AssemblyInfo.cs
+C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.csproj.CoreCompileInputs.cache
+C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.dll
+C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.pdb
+C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.genruntimeconfig.cache

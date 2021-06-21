@@ -1,0 +1,13 @@
+C:\C\Reqursia\Reqursia\bin\Debug\netcoreapp3.1\Reqursia.exe
+C:\C\Reqursia\Reqursia\bin\Debug\netcoreapp3.1\Reqursia.deps.json
+C:\C\Reqursia\Reqursia\bin\Debug\netcoreapp3.1\Reqursia.runtimeconfig.json
+C:\C\Reqursia\Reqursia\bin\Debug\netcoreapp3.1\Reqursia.runtimeconfig.dev.json
+C:\C\Reqursia\Reqursia\bin\Debug\netcoreapp3.1\Reqursia.dll
+C:\C\Reqursia\Reqursia\bin\Debug\netcoreapp3.1\Reqursia.pdb
+C:\C\Reqursia\Reqursia\obj\Debug\netcoreapp3.1\Reqursia.csproj.AssemblyReference.cache
+C:\C\Reqursia\Reqursia\obj\Debug\netcoreapp3.1\Reqursia.AssemblyInfoInputs.cache
+C:\C\Reqursia\Reqursia\obj\Debug\netcoreapp3.1\Reqursia.AssemblyInfo.cs
+C:\C\Reqursia\Reqursia\obj\Debug\netcoreapp3.1\Reqursia.csproj.CoreCompileInputs.cache
+C:\C\Reqursia\Reqursia\obj\Debug\netcoreapp3.1\Reqursia.dll
+C:\C\Reqursia\Reqursia\obj\Debug\netcoreapp3.1\Reqursia.pdb
+C:\C\Reqursia\Reqursia\obj\Debug\netcoreapp3.1\Reqursia.genruntimeconfig.cache

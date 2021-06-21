@@ -1,0 +1,15 @@
+C:\C\WGET\WGET\bin\Debug\netcoreapp3.1\WGET.exe
+C:\C\WGET\WGET\bin\Debug\netcoreapp3.1\WGET.deps.json
+C:\C\WGET\WGET\bin\Debug\netcoreapp3.1\WGET.runtimeconfig.json
+C:\C\WGET\WGET\bin\Debug\netcoreapp3.1\WGET.runtimeconfig.dev.json
+C:\C\WGET\WGET\bin\Debug\netcoreapp3.1\WGET.dll
+C:\C\WGET\WGET\bin\Debug\netcoreapp3.1\WGET.pdb
+C:\C\WGET\WGET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\C\WGET\WGET\obj\Debug\netcoreapp3.1\WGET.csproj.AssemblyReference.cache
+C:\C\WGET\WGET\obj\Debug\netcoreapp3.1\WGET.AssemblyInfoInputs.cache
+C:\C\WGET\WGET\obj\Debug\netcoreapp3.1\WGET.AssemblyInfo.cs
+C:\C\WGET\WGET\obj\Debug\netcoreapp3.1\WGET.csproj.CoreCompileInputs.cache
+C:\C\WGET\WGET\obj\Debug\netcoreapp3.1\WGET.csproj.CopyComplete
+C:\C\WGET\WGET\obj\Debug\netcoreapp3.1\WGET.dll
+C:\C\WGET\WGET\obj\Debug\netcoreapp3.1\WGET.pdb
+C:\C\WGET\WGET\obj\Debug\netcoreapp3.1\WGET.genruntimeconfig.cache
