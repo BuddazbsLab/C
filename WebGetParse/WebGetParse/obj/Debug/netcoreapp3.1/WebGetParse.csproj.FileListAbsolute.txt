@@ -11,3 +11,15 @@ C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.csproj.CoreComp
 C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.dll
 C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.pdb
 C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.genruntimeconfig.cache
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\C\WebGetParse\WebGetParse\obj\Debug\netcoreapp3.1\WebGetParse.csproj.CopyComplete
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\de\System.Web.Helpers.resources.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\de\System.Web.WebPages.Deployment.resources.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\de\System.Web.WebPages.Razor.resources.dll
+C:\C\WebGetParse\WebGetParse\bin\Debug\netcoreapp3.1\de\System.Web.WebPages.resources.dll

@@ -1,28 +1,32 @@
 ﻿using System;
 using System.IO;
 using System.Net;
-using Newtonsoft.Json;
+
 
 namespace WebGetParse
 {
-    internal class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
-            var updateGet = string.Empty;
-            var url = @"http://awx:8000/awx/postamats/status/all";
+            var updateGet = string.Empty; // Поле Empty обозначает пустую строку, т.е. такую строку, которая не содержит символы. Этим оно отличается от пустой ссылки типа String, которая просто делается на несуществующий объект.
+            var url = @"http://awx:8000/awx/postamats/status/all"; // переменная которая хранит ссылку
+            // @"...." обозначает дословный строковый литерал. С# не обрабатывает никаких символов escapes в строке, кроме "". 
+            // Это упрощает и упрощает обработку строк, которые в противном случае должны были бы иметь кучу экранов для правильной работы. Пути файлов/папок, например.
+            var request = (HttpWebRequest) WebRequest.Create(url); // создаем ссылку на которую идет запрос/ Инициализирует новый экземпляр WebRequest для заданной схемы URI.
+            // (HttpWebRequest) - Для создания объекта HttpWebRequest нужно вызвать статический метод Create() класса WebRequest (также наследуемый классом HttpWebRequest).
+            // Объект – это созданный экземпляр класса.
 
-            var request = (HttpWebRequest) WebRequest.Create(url);
-            request.AutomaticDecompression = DecompressionMethods.GZip;
-
-            using (var response = (HttpWebResponse) request.GetResponse())
-            using (var stream = response.GetResponseStream())
-            using (var reader = new StreamReader(stream))
+            var response = (HttpWebResponse) request.GetResponse(); // выполняем GET запрос
+            var stream = response.GetResponseStream(); // возвращает объект потока, который используется для чтения ответа от сервера. 
+            using (var reader = new StreamReader(stream)) // StreamReader это класс C #, предназначенный для ввода символов в определенной кодировке, его можно использовать для чтения строк информации из стандартного текстового файла.
+            // Оператор using гарантирует вызов метода Dispose, даже если при вызове методов в объекте происходит исключение, потому что using это ничто иное как try/finally блоки.
+            // Dispose — это некая команда, которая как бы помечает объект флагом, что мы больше не намерены использовать наш объект.
             {
-                updateGet = reader.ReadToEnd();
+                updateGet = reader.ReadToEnd(); // записывает полученный поток в переменную читая его до конца. ReadToEnd предполагает, что поток знает, когда достигнут конец.
             }
-
-            Console.WriteLine();
+            
+            Console.WriteLine(results); // выводит в консоль полученный поток 
         }
     }
 }
