@@ -28,7 +28,7 @@ namespace Площадь_треуголинка
                 double cosB = a * a + c * c - b * b;
                 // Анализ треугольника
                 if (cosC < 0 | cosA < 0 | cosB < 0)
-                    Console.WriteLine("Тупоуголный");
+                    Console.WriteLine("Тупо-уголный");
                 else if (cosC > 0 & cosA > 0 & cosB > 0)
                     Console.WriteLine("Остроугольный");
                 else if (cosC == 0 | cosA == 0 | cosB == 0)
