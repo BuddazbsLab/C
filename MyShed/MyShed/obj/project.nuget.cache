@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "6HAO0sgX5TTHdtve/pRosljlOaQrUJ6TsJCjXr2tgVcF30chaZB4Vfz2fnqXUBRF3CNY5BZB/T1Vql4mdugZlQ==",
   "success": true,
   "projectFilePath": "D:\\C\\MyShed\\MyShed\\MyShed.csproj",
+=======
+  "dgSpecHash": "M7VcqwLYTQ6RcCqajw+iwz4mMnY64Sk7MgMyy1nNsdsoPCUG0cDxv9KYQmSKzY2WjPZIOFWjpfqfH0HkjNQQ2w==",
+  "success": true,
+  "projectFilePath": "C:\\C\\MyShed\\MyShed\\MyShed.csproj",
+>>>>>>> 66ec94a71b763da722a886ffd8c2885b203aac7c
   "expectedPackageFiles": [],
   "logs": []
 }
