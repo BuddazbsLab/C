@@ -33,3 +33,4 @@ namespace ArrayList
         }
     }
 }
+// Массив

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C\\ArrayList\\ArrayList\\ArrayList.csproj": {}
+    "D:\\C\\ArrayList\\ArrayList\\ArrayList.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C\\ArrayList\\ArrayList\\ArrayList.csproj": {
+    "D:\\C\\ArrayList\\ArrayList\\ArrayList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C\\ArrayList\\ArrayList\\ArrayList.csproj",
+        "projectUniqueName": "D:\\C\\ArrayList\\ArrayList\\ArrayList.csproj",
         "projectName": "ArrayList",
-        "projectPath": "D:\\C#\\C\\ArrayList\\ArrayList\\ArrayList.csproj",
+        "projectPath": "D:\\C\\ArrayList\\ArrayList\\ArrayList.csproj",
         "packagesPath": "C:\\Users\\budda\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C\\ArrayList\\ArrayList\\obj\\",
+        "outputPath": "D:\\C\\ArrayList\\ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
