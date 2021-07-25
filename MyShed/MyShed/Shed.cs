@@ -5,8 +5,32 @@ using System.Text;
 
 namespace MyShed
 { //// создаем класс сарая и доступ к переменным по ООП
+
+
     public class Shed
     {
+        //Конструктор  контролирует устанавливаемые в свойства занчения. 
+        public Shed(int w, int l, int height)
+        {
+            width = w; // нужно проиницилизировать переменную width и просто присваиваем значение
+            Lengthwise = l; // необходимо изменить свойтсво, для которой нет переменной, потому что объявляли в сокращенно варианте и присваиваем заначение именно свойтсву 
+            this.height = height; // переменная через которую передается занчение, имеет точно такое же имя, что и переменная класса.  
+        }
+
+        //Статичная переменная 
+        static int ObjectNumber = 0;
+        public int GetObjectNumber()
+        {
+            return ObjectNumber;
+        }
+
+        public Shed()
+        {
+            ObjectNumber++;
+        }
+
+
+
         // Переменные (Свойства сарая), хороший тон и не нарушает принципы безопастности, переменные должны быть закрыты (private или protected)
         private int width;
         private int height;
@@ -65,7 +89,14 @@ namespace MyShed
             Lengthwise += y;
             Height += h;
         }
-        
+        // Перегрузка метода 
+
+        public void ExpandSize(int x, int y)
+        {
+            Width += x;
+            Lengthwise += y;
+        }
+
         // Метод который расширяет сарай и одновременно изменяет переданные значения 
         public void ExpandAndGetSize(ref int x, ref int y, ref int h)
         {
@@ -81,6 +112,8 @@ namespace MyShed
             y = Lengthwise;
             h = Height;
         }
+
+
 
     }
 }

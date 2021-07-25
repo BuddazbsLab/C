@@ -11,3 +11,16 @@ C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.csproj.CoreCompileInputs.cache
 C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.dll
 C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.pdb
 C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.genruntimeconfig.cache
+D:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.exe
+D:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.deps.json
+D:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.runtimeconfig.json
+D:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.runtimeconfig.dev.json
+D:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.dll
+D:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.pdb
+D:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.csproj.AssemblyReference.cache
+D:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.AssemblyInfoInputs.cache
+D:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.AssemblyInfo.cs
+D:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.csproj.CoreCompileInputs.cache
+D:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.dll
+D:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.pdb
+D:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.genruntimeconfig.cache
