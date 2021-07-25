@@ -1,0 +1,13 @@
+C:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.exe
+C:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.deps.json
+C:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.runtimeconfig.json
+C:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.runtimeconfig.dev.json
+C:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.dll
+C:\C\MyShed\MyShed\bin\Debug\netcoreapp3.1\MyShed.pdb
+C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.csproj.AssemblyReference.cache
+C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.AssemblyInfoInputs.cache
+C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.AssemblyInfo.cs
+C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.csproj.CoreCompileInputs.cache
+C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.dll
+C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.pdb
+C:\C\MyShed\MyShed\obj\Debug\netcoreapp3.1\MyShed.genruntimeconfig.cache
