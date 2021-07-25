@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C\\EnumDays\\EnumDays\\EnumDays.csproj": {}
+    "D:\\C\\EnumDays\\EnumDays\\EnumDays.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C\\EnumDays\\EnumDays\\EnumDays.csproj": {
+    "D:\\C\\EnumDays\\EnumDays\\EnumDays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C\\EnumDays\\EnumDays\\EnumDays.csproj",
+        "projectUniqueName": "D:\\C\\EnumDays\\EnumDays\\EnumDays.csproj",
         "projectName": "EnumDays",
-        "projectPath": "D:\\C#\\C\\EnumDays\\EnumDays\\EnumDays.csproj",
+        "projectPath": "D:\\C\\EnumDays\\EnumDays\\EnumDays.csproj",
         "packagesPath": "C:\\Users\\budda\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C\\EnumDays\\EnumDays\\obj\\",
+        "outputPath": "D:\\C\\EnumDays\\EnumDays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
