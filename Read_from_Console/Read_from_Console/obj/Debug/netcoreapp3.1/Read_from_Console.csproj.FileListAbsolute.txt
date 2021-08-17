@@ -1,0 +1,13 @@
+C:\C\Read_from_Console\Read_from_Console\bin\Debug\netcoreapp3.1\Read_from_Console.exe
+C:\C\Read_from_Console\Read_from_Console\bin\Debug\netcoreapp3.1\Read_from_Console.deps.json
+C:\C\Read_from_Console\Read_from_Console\bin\Debug\netcoreapp3.1\Read_from_Console.runtimeconfig.json
+C:\C\Read_from_Console\Read_from_Console\bin\Debug\netcoreapp3.1\Read_from_Console.runtimeconfig.dev.json
+C:\C\Read_from_Console\Read_from_Console\bin\Debug\netcoreapp3.1\Read_from_Console.dll
+C:\C\Read_from_Console\Read_from_Console\bin\Debug\netcoreapp3.1\Read_from_Console.pdb
+C:\C\Read_from_Console\Read_from_Console\obj\Debug\netcoreapp3.1\Read_from_Console.csproj.AssemblyReference.cache
+C:\C\Read_from_Console\Read_from_Console\obj\Debug\netcoreapp3.1\Read_from_Console.AssemblyInfoInputs.cache
+C:\C\Read_from_Console\Read_from_Console\obj\Debug\netcoreapp3.1\Read_from_Console.AssemblyInfo.cs
+C:\C\Read_from_Console\Read_from_Console\obj\Debug\netcoreapp3.1\Read_from_Console.csproj.CoreCompileInputs.cache
+C:\C\Read_from_Console\Read_from_Console\obj\Debug\netcoreapp3.1\Read_from_Console.dll
+C:\C\Read_from_Console\Read_from_Console\obj\Debug\netcoreapp3.1\Read_from_Console.pdb
+C:\C\Read_from_Console\Read_from_Console\obj\Debug\netcoreapp3.1\Read_from_Console.genruntimeconfig.cache
