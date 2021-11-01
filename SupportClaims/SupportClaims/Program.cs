@@ -39,7 +39,7 @@ namespace SupportClaims
                     if (allclaims >= 3)
                     {
                         var message = await botClient.SendTextMessageAsync(
-                            -1001609745979, // or a chat id: 123456789
+                            //  chat id: 123456789
                             "Ребята, на нашей группе висит более 5 обращений, всего: " + " " + allclaims + " " + "шт." +
                             "\n\nИз них: \n\n🚨ИНЦИДЕНТОВ🚨: " + " " + alarmnumber + " " + "шт., (но не факт)" +
                             "\n\nВысокий приоритет‼: " + " " + hotclaim + " " + "шт.," +
@@ -49,12 +49,12 @@ namespace SupportClaims
                     else
                     {
                         var message1 = await botClient.SendTextMessageAsync(
-                            -1001609745979, // or a chat id: 123456789 
+                            //  chat id: 123456789 
                             "Ребята, на нашей группе висит мало обращений, всего : " + allclaims + " " + "шт." +
                             "\n\nИз них 🚨ИНЦИДЕНТОВ🚨: " + alarmnumber + " " + "шт." +
                             "\n\nВы все ✅М О Л О Д Ц Ы✅");
                         var message_else = await botClient.SendStickerAsync(
-                            -1001609745979, // or a chat id: 123456789
+                            //  chat id: 1234567899
                             sticker: takeSettingsApp.stiker); 
                     }
                 }
