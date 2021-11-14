@@ -1,0 +1,13 @@
+D:\C\DowFileISO\DowFileISO\bin\Debug\netcoreapp3.1\DowFileISO.exe
+D:\C\DowFileISO\DowFileISO\bin\Debug\netcoreapp3.1\DowFileISO.deps.json
+D:\C\DowFileISO\DowFileISO\bin\Debug\netcoreapp3.1\DowFileISO.runtimeconfig.json
+D:\C\DowFileISO\DowFileISO\bin\Debug\netcoreapp3.1\DowFileISO.runtimeconfig.dev.json
+D:\C\DowFileISO\DowFileISO\bin\Debug\netcoreapp3.1\DowFileISO.dll
+D:\C\DowFileISO\DowFileISO\bin\Debug\netcoreapp3.1\DowFileISO.pdb
+D:\C\DowFileISO\DowFileISO\obj\Debug\netcoreapp3.1\DowFileISO.csproj.AssemblyReference.cache
+D:\C\DowFileISO\DowFileISO\obj\Debug\netcoreapp3.1\DowFileISO.AssemblyInfoInputs.cache
+D:\C\DowFileISO\DowFileISO\obj\Debug\netcoreapp3.1\DowFileISO.AssemblyInfo.cs
+D:\C\DowFileISO\DowFileISO\obj\Debug\netcoreapp3.1\DowFileISO.csproj.CoreCompileInputs.cache
+D:\C\DowFileISO\DowFileISO\obj\Debug\netcoreapp3.1\DowFileISO.dll
+D:\C\DowFileISO\DowFileISO\obj\Debug\netcoreapp3.1\DowFileISO.pdb
+D:\C\DowFileISO\DowFileISO\obj\Debug\netcoreapp3.1\DowFileISO.genruntimeconfig.cache

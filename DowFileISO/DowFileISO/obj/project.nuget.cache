@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "65VevJ/1v/ZLyflsQMGgKstrzZKPHcYsL8W3W0TTR1v/2QJxDaIdMu32SgX3t1gllSlyinlfmHS8ABFZOooTsg==",
+  "success": true,
+  "projectFilePath": "D:\\C\\DowFileISO\\DowFileISO\\DowFileISO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\budda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
