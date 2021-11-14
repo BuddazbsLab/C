@@ -1,0 +1,13 @@
+C:\C\Object_OOP\Object_OOP\bin\Debug\netcoreapp3.1\Object_OOP.exe
+C:\C\Object_OOP\Object_OOP\bin\Debug\netcoreapp3.1\Object_OOP.deps.json
+C:\C\Object_OOP\Object_OOP\bin\Debug\netcoreapp3.1\Object_OOP.runtimeconfig.json
+C:\C\Object_OOP\Object_OOP\bin\Debug\netcoreapp3.1\Object_OOP.runtimeconfig.dev.json
+C:\C\Object_OOP\Object_OOP\bin\Debug\netcoreapp3.1\Object_OOP.dll
+C:\C\Object_OOP\Object_OOP\bin\Debug\netcoreapp3.1\Object_OOP.pdb
+C:\C\Object_OOP\Object_OOP\obj\Debug\netcoreapp3.1\Object_OOP.csproj.AssemblyReference.cache
+C:\C\Object_OOP\Object_OOP\obj\Debug\netcoreapp3.1\Object_OOP.AssemblyInfoInputs.cache
+C:\C\Object_OOP\Object_OOP\obj\Debug\netcoreapp3.1\Object_OOP.AssemblyInfo.cs
+C:\C\Object_OOP\Object_OOP\obj\Debug\netcoreapp3.1\Object_OOP.csproj.CoreCompileInputs.cache
+C:\C\Object_OOP\Object_OOP\obj\Debug\netcoreapp3.1\Object_OOP.dll
+C:\C\Object_OOP\Object_OOP\obj\Debug\netcoreapp3.1\Object_OOP.pdb
+C:\C\Object_OOP\Object_OOP\obj\Debug\netcoreapp3.1\Object_OOP.genruntimeconfig.cache

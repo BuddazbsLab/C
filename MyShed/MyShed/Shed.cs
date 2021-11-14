@@ -18,15 +18,15 @@ namespace MyShed
         }
 
         //Статичная переменная 
-        static int ObjectNumber = 0;
+        static int _objectNumber = 0;
         public int GetObjectNumber()
         {
-            return ObjectNumber;
+            return _objectNumber;
         }
 
         public Shed()
         {
-            ObjectNumber++;
+            _objectNumber++;
         }
 
 
@@ -48,9 +48,9 @@ namespace MyShed
                 }
                 else
                 {
+                    return;
                     Console.WriteLine("Сарай не может быть больше 100 и не может быть отрицательным\n" +
                                       "Мы строим нормальные сараи");
-                    return;
                 }
             } // Виртуальная переменная имеет такойже тип данных что и свойстов. Ставим ее так как ранее ни где не инициализировал ее. 
         }
